@@ -56,7 +56,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "bignumber.js": "https://github.com/debris/bignumber.js.git#master",
+    "bignumber.js": "https://github.com/debris/bignumber.js.git",
     "bitcore-lib": "^0.14.0",
     "bitcore-mnemonic": "^1.2.2",
     "buffer": "^4.9.0",
